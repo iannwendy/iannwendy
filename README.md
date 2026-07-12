@@ -11,7 +11,6 @@ AI/ML Researcher & Full-Stack Developer at Ton Duc Thang University. Building in
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" height="30" width="40"/>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fastapi.svg" alt="FastAPI" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring Boot" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40"/>
