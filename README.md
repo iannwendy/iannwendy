@@ -1,6 +1,6 @@
 # Bao Minh Nguyen
 
-AI/ML Researcher & Full-Stack Developer at Ton Duc Thang University. Building intelligent systems that bridge research and real-world applications, with a focus on NLP for low-resource languages and educational AI.
+AI/ML Researcher & Full-Stack Developer at Ministry of Public Security of Vietnam. Building intelligent systems that bridge research and real-world applications, with a focus on NLP for low-resource languages and educational AI.
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ AI/ML Researcher & Full-Stack Developer at Ton Duc Thang University. Building in
 
 **AIChatbot** — Full-stack RAG-powered chatbot for student Q&A. Supports document upload, hybrid search (vector + BM25), streaming responses, and quiz generation. [Link](https://github.com/iannwendy/AIChatbot)
 
-**TDTUAutoCourseReview** — Chrome Extension that automates course evaluation forms at TDTU. [Link](https://github.com/iannwendy/TDTUAutoCourseReview)
+**TDTUAutoCourseReview** — Chrome Extension that automates course evaluation forms for university students. [Link](https://github.com/iannwendy/TDTUAutoCourseReview)
 
 **QRAttendanceCheckin** — QR-based attendance system with GPS verification and OTP fallback. [Link](https://github.com/iannwendy/QRAttendanceCheckin)
 
