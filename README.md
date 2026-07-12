@@ -4,7 +4,7 @@ AI/ML Researcher & Full-Stack Developer based in Ho Chi Minh City, Vietnam. I bu
 
 ---
 
-[Portfolio](https://iannwendy.com) | [Email](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [GitHub](https://github.com/iannwendy)
+[Portfolio](https://me.iannwendii.space/) | [Email](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [GitHub](https://github.com/iannwendy)
 
 ---
 
@@ -138,7 +138,7 @@ Online tuition payment system with OTP email verification, distributed locking, 
 
 I'm open to collaboration on research projects, full-stack applications with AI integration, and open source contributions. Feel free to reach out via email or LinkedIn.
 
-[baominhnguyen.dev@gmail.com](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [iannwendy.com](https://iannwendy.com)
+[baominhnguyen.dev@gmail.com](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [me.iannwendii.space](https://me.iannwendii.space/)
 
 ---
 
