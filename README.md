@@ -1,145 +1,50 @@
 # Bao Minh Nguyen
 
-AI/ML Researcher & Full-Stack Developer based in Ho Chi Minh City, Vietnam. I build intelligent systems that bridge research and real-world applications, with a focus on NLP for low-resource languages.
+AI/ML Researcher & Full-Stack Developer at Ton Duc Thang University. Building intelligent systems that bridge research and real-world applications, with a focus on NLP for low-resource languages and educational AI.
 
----
+## Tech Stack
 
-[Portfolio](https://me.iannwendii.space/) | [Email](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [GitHub](https://github.com/iannwendy)
+<p align="left">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pytorch.svg" alt="PyTorch" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tensorflow.svg" alt="TensorFlow" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg" alt="Django" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fastapi.svg" alt="FastAPI" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg" alt="Spring Boot" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Docker" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="Android" height="30" width="40"/>
+</p>
 
----
+## Featured Projects
 
-## About
+**aitraining** — Research pipeline for detecting depression signs in Vietnamese YouTube comments. Compared TF-IDF+SVM, BiLSTM, PhoBERT, and Domain-Adaptive PhoBERT. Achieved 0.84 F1-macro in-domain performance. [Link](https://github.com/iannwendy/aitraining)
 
-I'm a researcher and developer at Ton Duc Thang University, working across machine learning, natural language processing, and full-stack engineering. My recent research explores depression detection in Vietnamese YouTube comments, where I compared classical and deep-learning approaches and uncovered a striking generalization gap between in-domain and cross-domain performance.
+**AIChatbot** — Full-stack RAG-powered chatbot for student Q&A. Supports document upload, hybrid search (vector + BM25), streaming responses, and quiz generation. [Link](https://github.com/iannwendy/AIChatbot)
 
-Currently exploring retrieval-augmented generation systems, domain adaptation techniques, and production-grade ML pipelines.
+**TDTUAutoCourseReview** — Chrome Extension that automates course evaluation forms at TDTU. [Link](https://github.com/iannwendy/TDTUAutoCourseReview)
 
-**I may be slow to respond, but I always deliver.**
-
-```python
-class BaoMinhNguyen:
-    def __init__(self):
-        self.role = "AI/ML Researcher & Full-Stack Developer"
-        self.location = "Ho Chi Minh City, Vietnam"
-        self.education = "Ton Duc Thang University"
-        
-    def get_focus(self):
-        return [
-            "Machine Learning & Deep Learning",
-            "Natural Language Processing",
-            "Retrieval-Augmented Generation",
-            "Full-Stack Development",
-            "Research & Open Source"
-        ]
-    
-    def get_stack(self):
-        return {
-            "languages": ["Python", "TypeScript", "JavaScript", "Kotlin", "Java"],
-            "ml_ai": ["PyTorch", "PhoBERT", "BiLSTM", "LangChain", "HuggingFace"],
-            "backend": ["Django", "FastAPI", "Spring Boot", "Node.js"],
-            "frontend": ["React", "Next.js", "Material UI"],
-            "databases": ["MongoDB", "PostgreSQL", "ChromaDB"],
-            "infrastructure": ["Docker", "Google Cloud"]
-        }
-```
-
----
-
-## Selected Projects
-
-### aitrraining — Depression Detection Research
-
-End-to-end research pipeline for detecting signs of depression in Vietnamese YouTube comments. Compares classical methods (TF-IDF + SVM) with deep learning approaches (BiLSTM, PhoBERT, Domain-Adaptive PhoBERT).
-
-**Key findings:**
-- 0.84 F1-macro in-domain performance
-- 0.50 generalization gap between in-domain and cross-domain data
-- Domain-adaptive pretraining shows nuanced trade-offs depending on data scale
-
-**Stack:** Python, PyTorch, PhoBERT, FastAPI, React
-
-[Repository](https://github.com/iannwendy/aitraining) | MIT License
-
----
-
-### AIChatbot — RAG-Powered Educational Assistant
-
-Full-stack web application that helps students get AI-powered answers about course materials using Retrieval-Augmented Generation. Implements hybrid search combining vector similarity with BM25 keyword matching.
-
-**Features:**
-- Document processing (PDF, DOCX, TXT) with intelligent chunking
-- Streaming responses via SSE with conversation memory
-- Model selection (Gemini 2.0 Flash, 2.5 Flash, 2.5 Pro)
-- Quiz generator and exam schedule management
-- Role-based access (Student, Teacher, Admin) with Google OAuth
-
-**Stack:** Django, React, TypeScript, MongoDB, ChromaDB, LangChain, Google Gemini
-
-[Repository](https://github.com/iannwendy/AIChatbot) | MIT License
-
----
-
-### TDTUAutoCourseReview — Chrome Extension
-
-Chrome Extension that automates course evaluation form filling for Ton Duc Thang University students. Features glassmorphism UI with configurable processing speeds and real-time progress tracking.
-
-**Stack:** React 18, TypeScript, Webpack 5, Chrome Extension Manifest V3
-
-[Repository](https://github.com/iannwendy/TDTUAutoCourseReview) | MIT License
-
----
-
-### QRAttendanceCheckin — Attendance System
-
-QR-based attendance system with GPS verification, OTP fallback mechanism, and watermarked photo capture for tamper-resistant records.
-
-**Stack:** TypeScript
-
-[Repository](https://github.com/iannwendy/QRAttendanceCheckin)
-
----
-
-### TDTU-iBankingSystem — Secure Payment Platform
-
-Online tuition payment system with OTP email verification, distributed locking, and optimistic concurrency control. Built with Spring Boot (Java 21) and Next.js.
-
-**Stack:** Spring Boot, Next.js, TypeScript
-
-[Repository](https://github.com/iannwendy/TDTU-iBankingSystem)
-
----
+**QRAttendanceCheckin** — QR-based attendance system with GPS verification and OTP fallback. [Link](https://github.com/iannwendy/QRAttendanceCheckin)
 
 ## Research Interests
 
-- **NLP for Low-Resource Languages** — Vietnamese text classification, sentiment analysis
-- **Mental Health Detection** — Automated screening from social media data
-- **Domain Adaptation** — Bridging distribution gaps in ML models
-- **Retrieval-Augmented Generation** — Educational AI systems
+- NLP for Low-Resource Languages (Vietnamese text classification)
+- Mental Health Detection from Social Media
+- Domain Adaptation in Machine Learning
+- Retrieval-Augmented Generation (RAG)
 
----
+## Social
 
-## Languages and Tools
+<p align="left">
+    <a href="https://github.com/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
+    <a href="https://www.linkedin.com/in/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
+    <a href="https://www.facebook.com/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+</p>
 
-**AI/ML:** Python, PyTorch, TensorFlow, HuggingFace Transformers, LangChain
+## Contact
 
-**Frontend:** React, TypeScript, Next.js, Material UI
-
-**Backend:** Django, FastAPI, Spring Boot, Node.js
-
-**Mobile:** Android, Kotlin
-
-**Databases:** MongoDB, PostgreSQL, ChromaDB
-
-**Infrastructure:** Docker, Google Cloud
-
----
-
-## Get in Touch
-
-I'm open to collaboration on research projects, full-stack applications with AI integration, and open source contributions. Feel free to reach out via email or LinkedIn.
-
-[baominhnguyen.dev@gmail.com](mailto:baominhnguyen.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/iannwendy) | [me.iannwendii.space](https://me.iannwendii.space/)
-
----
-
-<sub>Ho Chi Minh City, Vietnam — 2026</sub>
+- Personal email: [baominhnguyen.dev@gmail.com](mailto:baominhnguyen.dev@gmail.com)
+- Homepage: [me.iannwendii.space](https://me.iannwendii.space/)
