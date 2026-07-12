@@ -40,7 +40,9 @@ AI/ML Researcher & Full-Stack Developer at Ton Duc Thang University. Building in
 <p align="left">
     <a href="https://github.com/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
     <a href="https://www.linkedin.com/in/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/></a>
-    <a href="https://www.facebook.com/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+    <a href="https://www.facebook.com/iannwendj"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40"/></a>
+    <a href="https://www.instagram.com/iannwendy"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40"/></a>
+    <a href="https://www.tiktok.com/@minattofive"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="TikTok" height="30" width="40"/></a>
 </p>
 
 ## Contact
