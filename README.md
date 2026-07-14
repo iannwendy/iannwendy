@@ -24,8 +24,6 @@ AI/ML Researcher & Full-Stack Developer at Ministry of Public Security of Vietna
 
 **AIChatbot** — Full-stack RAG-powered chatbot for student Q&A. Supports document upload, hybrid search (vector + BM25), streaming responses, and quiz generation. [Link](https://github.com/iannwendy/AIChatbot)
 
-**TDTUAutoCourseReview** — Chrome Extension that automates course evaluation forms for university students. [Link](https://github.com/iannwendy/TDTUAutoCourseReview)
-
 **QRAttendanceCheckin** — QR-based attendance system with GPS verification and OTP fallback. [Link](https://github.com/iannwendy/QRAttendanceCheckin)
 
 ## Research Interests
