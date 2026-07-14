@@ -44,6 +44,4 @@ AI/ML Researcher & Full-Stack Developer at Ministry of Public Security of Vietna
 </p>
 
 ## Contact
-
-- Personal email: [baominhnguyen.dev@gmail.com](mailto:baominhnguyen.dev@gmail.com)
 - Homepage: [me.iannwendii.space](https://me.iannwendii.space/)
