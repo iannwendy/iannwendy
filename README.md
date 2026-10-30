@@ -1,6 +1,6 @@
 # Bao Minh Nguyen
 
-Final-year Software Engineering student at **Ton Duc Thang University (TDTU)**, Ho Chi Minh City, Vietnam. Interested in **Full-Stack Web Development**, **Software Testing & Quality Assurance (Manual QA / E2E)**, and **Applied AI / NLP**.
+Interested in **Full-Stack Web Development**, **Software Testing & Quality Assurance (Manual QA / E2E)**, and **Applied AI / NLP**.
 
 ## Tech Stack & Tools
 
